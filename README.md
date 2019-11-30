@@ -4,7 +4,7 @@ Entry management software
 
 Steps to Install
 ```
-git clone {apni github link daal de clone vaali yahan}
+git clone https://github.com/gauravzqa/Entry-Management-System.git
 ```
 
 To install virtual environment,
